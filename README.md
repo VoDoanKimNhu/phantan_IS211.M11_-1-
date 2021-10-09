@@ -1,13 +1,21 @@
 # phantan_IS211.M11_-1-
 
-<h1>THÔNG TIN MÔN HỌC<h1>
-  Môn học: Cơ sở dữ liệu phân tán
-  Lớp: IS211.M11
-  Năm học: HKI NH 2021-2022
-  Giảng viên: ThS.Thái Bảo Trân, CN.Nguyễn Minh Nhựt
+<h1>THÔNG TIN MÔN HỌC</h1>
+  <ul>
+    <li>Môn học: Cơ sở dữ liệu phân tán</li>
+    <li>Lớp: IS211.M11</li>
+    <li>Năm học: HKI NH 2021-2022</li>
+    <li>Giảng viên: ThS.Thái Bảo Trân, CN.Nguyễn Minh Nhựt</li>
+  </ul>
   
- THÔNG TIN NHÓM
-  Võ Đoàn Kim Như - 19521972 
-  Nguyễn Thị Mai Trinh - 19522405 
-  Trần Ngọc Mỹ Tiên - 19522343 
-  Bùi Thắng Lợi - 19521768 
+ <h1>THÔNG TIN NHÓM</h1>
+ <ul>
+    <li>Võ Đoàn Kim Như - 19521972 </li>
+    <li>Nguyễn Thị Mai Trinh - 19522405 </li>
+    <li>Trần Ngọc Mỹ Tiên - 19522343 </li>
+    <li>Bùi Thắng Lợi - 19521768 </li>
+  </ul>
+  
+ 
+  
+  
