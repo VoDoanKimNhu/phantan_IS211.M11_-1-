@@ -1,5 +1,5 @@
 # phantan_IS211.M11_-1-
-<h2>Đay là Branch của Trinh </h2>
+<h4>Đây là Branch của Trinh </h4>
 <h1>THÔNG TIN MÔN HỌC</h1>
   <ul>
     <li>Môn học: Cơ sở dữ liệu phân tán</li>
