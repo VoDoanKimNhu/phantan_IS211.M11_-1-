@@ -1,6 +1,6 @@
 # phantan_IS211.M11_-1-
 
-THÔNG TIN MÔN HỌC
+<h1>THÔNG TIN MÔN HỌC<h1>
   Môn học: Cơ sở dữ liệu phân tán
   Lớp: IS211.M11
   Năm học: HKI NH 2021-2022
