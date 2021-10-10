@@ -1,5 +1,5 @@
 # phantan_IS211.M11_-1-
-Đây là file của Như 
+Đây là file của VN
 
 <h1>THÔNG TIN MÔN HỌC</h1>
   <ul>
